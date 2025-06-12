@@ -1,6 +1,6 @@
 # 🎮 LoLBuilds - Quickset
 
-**Proyecto Intermodular - DAM 1º**  
+**Proyecto Intermodular - 1º DAM**  
 **Realizado por: Luis Enrique Juan Ferrer**
 
 ---
@@ -18,22 +18,22 @@
 
 ## 📌 Introducción
 
-Este proyecto intermodular nace en el contexto del ciclo formativo de **Desarrollo de Aplicaciones Multiplataforma (DAM)** como una propuesta para demostrar la capacidad de diseñar, implementar y coordinar múltiples componentes de software que interactúan de forma cohesionada.
+Este proyecto nace en el contexto del ciclo formativo de **Desarrollo de Aplicaciones Multiplataforma (DAM)** como una propuesta para el último trimestre de la asignatura **Proyecto Intermodular**, con el objetivo de demostrar la capacidad de crear un programa o página web de principio a fin. Para ello nos han dado entre mes y medio y dos meses para realizarlo.
 
-El objetivo principal es consolidar conocimientos en arquitectura cliente-servidor, consumo de APIs externas, gestión de entornos y despliegue, aplicando buenas prácticas de programación y control de versiones.
+El objetivo principal es consolidar lo ya aprendido en los dos primeros trimestres del curso, o ir más allá y aprender nuevas tecnologías o lenguajes de programación que resulten interesantes. Personalmente, he querido utilizar los frameworks y lenguajes utilizados en mis prácticas en empresa (**Java Spring Boot** y **React TypeScript**), y me he aventurado a conocer **Docker** y **Firebase**. 
+
+En este proyecto he consolidado conocimientos en arquitectura cliente-servidor, consumo de APIs externas, gestión de entornos y despliegue, aplicando buenas prácticas de programación y control de versiones.
 
 ---
 
-## 🧠 Resumen Ejecutivo
+## 🧠 Resumen del proyecto
 
-**LoLBuilds (Quickset)** es una aplicación web que permite a la comunidad de _League of Legends_ crear, personalizar y compartir builds de campeones. Utiliza la **API oficial de Riot Games** para obtener datos en tiempo real sobre campeones y objetos.
+**LoLBuilds (Quickset)** es una aplicación web que permite a la comunidad de _League of Legends_ crear, personalizar y compartir builds de campeones mediante archivos **JSON**. Utiliza la **API oficial de Riot Games** para obtener datos en tiempo real sobre campeones y objetos.
 
 Está dividido en dos módulos:
 
 - 🧩 **Frontend**: React + TypeScript
 - 🧩 **Backend**: Servidor Spring Boot + Firebase
-
-El sistema está pensado para facilitar la escalabilidad, el mantenimiento y la automatización del flujo de desarrollo.
 
 ---
 
