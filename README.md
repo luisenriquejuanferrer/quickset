@@ -1,6 +1,6 @@
 # 🎮 LoLBuilds - Quickset
 
-**Proyecto Intermodular - 1º DAM**  
+**Proyecto Intermodular - Ciclo formativo de Desarrollo de Aplicaciones Multiplataforma (DAM)**  
 **Realizado por: Luis Enrique Juan Ferrer**
 
 ---
