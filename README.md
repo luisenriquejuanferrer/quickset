@@ -14,6 +14,8 @@
 ![Firebase](https://img.shields.io/badge/Database-Firebase-yellow?logo=firebase)
 ![Docker](https://img.shields.io/badge/Deploy-Docker-blue?logo=docker)
 
+---
+
 ## 📌 Introducción
 
 Este proyecto intermodular nace en el contexto del ciclo formativo de **Desarrollo de Aplicaciones Multiplataforma (DAM)** como una propuesta para demostrar la capacidad de diseñar, implementar y coordinar múltiples componentes de software que interactúan de forma cohesionada.
